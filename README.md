@@ -1,11 +1,9 @@
-## Hi I'm hong-dev :bow:
+## Hi! 👋
+
+🤖 Trying to be better
 
 
-
-🎃 Trying to be a better person
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong-dev&layout=compact&hide_title=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong-dev&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
